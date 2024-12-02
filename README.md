@@ -1,6 +1,6 @@
 # CSE158 - Assignment 2
 
-## Colab Notebook(https://colab.research.google.com/github/e7tran/CSE158-Assignment2/blob/main/assignment2.ipynb)
+[## Colab Notebook](https://colab.research.google.com/github/e7tran/CSE158-Assignment2/blob/main/assignment2.ipynb)
 
 ## Report 
 
